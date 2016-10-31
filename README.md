@@ -7,7 +7,7 @@
 
 * Boilerplate html5
 * Bootstrap Latest 
-* Font Awesome
+* Font Awesome 4.7.0
 * Normalize Css
 * JQuery Latest
 * 404 page 
