@@ -12,3 +12,9 @@
 * JQuery Latest
 * 404 page 
 * Favicon Icon
+
+### Extra Plugin
+---
+
+* WoW.js
+* Animate.Css
