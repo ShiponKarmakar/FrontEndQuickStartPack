@@ -10,7 +10,6 @@
 * Font Awesome v4.7.0
 * Normalize Css
 * JQuery v3.3.1
-* Vue Js v2.5.16 ( Commented )
 * 404 page
 * Favicon Icon
 
