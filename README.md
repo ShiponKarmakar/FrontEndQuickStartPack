@@ -6,10 +6,11 @@
 --- 
 
 * Boilerplate html5
-* Bootstrap v3.3.7 
+* Bootstrap v4.1.1 (https://getbootstrap.com/)
 * Font Awesome v4.7.0
 * Normalize Css
-* JQuery v3.2.0
+* JQuery v3.3.1
+* Vue Js v2.5.16 ( Commented )
 * 404 page
 * Favicon Icon
 
