@@ -2,7 +2,7 @@
 ---
 
 
-### Feature
+### Features
 --- 
 
 * Boilerplate html5
