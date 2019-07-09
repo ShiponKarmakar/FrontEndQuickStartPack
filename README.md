@@ -1,4 +1,4 @@
-# Front End Development Quick Start pack
+# Front End Development Quick Start pack v2.0.0
 ---
 
 
@@ -6,8 +6,8 @@
 --- 
 
 * Boilerplate html5
-* Bootstrap v4.1.1 (https://getbootstrap.com/)
-* Font Awesome v5.7.5
+* Bootstrap v4.3.1
+* FontAwesome v5.9.0
 * Normalize Css
 * JQuery v3.3.1
 * 404 page
@@ -19,5 +19,5 @@
 * WoW.js
 * Animate.Css
 * Hover Css
-* Owl Carousel v2.2.1
+* Owl Carousel v2.3.4
 * Magnific Popup
