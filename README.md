@@ -1,4 +1,4 @@
-# Front End Development Quick Start pack v2.0.1
+# Front End Development Quick Start pack v2.0.2
 ---
 
 
@@ -6,10 +6,10 @@
 --- 
 
 * Boilerplate html5
-* Bootstrap v4.3.1
+* Bootstrap v4.5.0
 * FontAwesome v5.9.0
 * Normalize Css
-* JQuery v3.3.1
+* JQuery v3.5.1
 * 404 page
 * Favicon Icon
 
